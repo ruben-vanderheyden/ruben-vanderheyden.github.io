@@ -10,16 +10,16 @@ Met 5 jaar studeren aan de PXL, vind ik dat ik een goede basis heb opgebouwd voo
 
 Tijdens mijn 5 jaar aan de PXL, ben ik 4 jaar jobstudent geweest bij Jerotronics. Dit is een IT-consultancy bedrijf, waar ik als systeem en netwerkbeheerder werkte. Ik heb hier veel ervaring en kennis opgedaan, voornamelijk op het vlak van netwerken. Het werk van zeer gevarieerd, het kon wisselen tussen het opzetten van netwerkinfrastructuur, het opzetten van webservers of de klant helpen met problemen die ze ervaren. 
 
-## Sterktes
+### Sterktes
 
 Ik ben een zeer rustige persoon en kan goed met stress omgaan. Dit betekent dat ik in stressvolle situaties meestal het hoofd wel koel kan houden.
 Teamwork is een van de sterktes, die ik op de PXL heb geleerd. Door middel van groepswerk en verschillende projecten heb ik geleerd hoe ik persoonlijk het beste in een groep werk. Als ik in een groep werk, ben ik geen leider. Ik doe wat er van mij verwacht wordt en probeer anderen te helpen met hun deel.
 
-## Werkpunt
+### Werkpunt
 
 Socialer worden is een punt waarin ik aan het proberen ben te verbeteren. Ik ben redelijk verlegen en vind het moeilijk om nieuwe mensen te leren kennen. Ik ben hier wel mee bezig om dit te verbeteren door tijdens de pauzes tussen de lessen af en toe eens met iemand die ik niet ken te gaan praten.
  
-### X-Factor
+## X-Factor
 Bij een traject op de PXL staat de X-factor altijd centraal.
 
 ![wireshark](/assets/img/xfactor.jpg) 
